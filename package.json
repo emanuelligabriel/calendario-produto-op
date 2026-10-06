@@ -1,0 +1,10 @@
+{
+  "name": "calendario-lancamentos",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Calendário de planejamento de lançamentos e comunicações do Marketing",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
